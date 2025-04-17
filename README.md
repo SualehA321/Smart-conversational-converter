@@ -1,2 +1,2 @@
 # Smart-conversational-converter
-"Smart Conversational Converter is a sleek, chat-style unit converter that makes everyday conversions feel effortless and interactive."
+"Smart Conversational Converter makes unit conversion simple, fast, and reliable for everyone."
