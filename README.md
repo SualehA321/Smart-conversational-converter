@@ -1,2 +1,2 @@
 # Smart-conversational-converter
-"Smart Conversational Converter makes unit conversion simple, fast, and reliable for everyone."
+"An easy-to-use app that quickly converts units of length, weight, and time."
